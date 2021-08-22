@@ -1,0 +1,149 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#cccccc;
+    height: 150px;
+    margin: 0px 200px;
+    margin-bottom: 55px;
+}
+
+.navbar label{
+    font-size: 100px;
+    padding: 10px;
+    margin-left: 35px;
+}
+
+.searchbar{
+    font-size: 35px;
+    height: 40px;
+    width: 800px;
+    border: solid 3px black;
+    margin-right: 250px;
+}
+
+.loginbtn{
+    font-size: 35px;
+    height: 55px;
+    width: 140px;
+    border: solid 3px black;
+    box-shadow: black 5px 5px;
+    margin-right: 75px;
+    color: white;
+    background-color:#2b78e4;
+}
+
+#section1{
+    display: flex;
+
+}
+
+.ninjacard1{
+    background-color:white;
+    height: 450px;
+    width: 1200px;
+    border: solid 3px black;
+    margin-left: 200px;
+    margin-bottom: 55px;
+}
+
+h1{
+    font-size: 100px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-weight: lighter;
+    font-size: 55px;
+    margin-left: 90px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.info1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.info1 h3{
+    font-weight: lighter;
+    font-size: 40px;
+    margin-right: 300px;
+    margin-top: 10px;
+
+}
+
+.info1 p{
+    font-size: 50px;
+    height: 100px;
+    width: 550px;
+    word-wrap: break-word;
+    margin-top: 0px;
+    position: relative;
+    right: 250px;
+    bottom: 30px;
+}
+
+.likebtn1{
+    font-size: 35px;
+    height: 65px;
+    width: 200px;
+    border: solid 3px black;
+    box-shadow: black 5px 5px;
+    background-color:#ffd966;
+    margin-left: 30px;
+}
+
+.addDefinition{
+    background-color: white;
+    border: solid 3px black;
+    height: 370px;
+    width: 597px;
+    margin-left: 55px;
+
+}
+
+.DojonWrapBox{
+    height: 100px;
+    width: 480px;
+    margin-top: 30px;
+}
+
+.addDefinition h1{
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+#addDefinitionbtn{
+    background-color:#93c47d;
+    border: solid 3px black;
+    box-shadow: black 5px 5px;
+    margin-top: 90px;
+    margin-left: 25px;
+    height: 100px;
+    width: 550px;
+    font-size: 50px;
+}
+
+
+.ninjacard2{
+    background-color:white;
+    height: 450px;
+    width: 1200px;
+    border: solid 3px black;
+    margin-left: 200px;
+    margin-bottom: 55px;
+
+}
+
+.info2 p{
+    width: 600px;
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+}
